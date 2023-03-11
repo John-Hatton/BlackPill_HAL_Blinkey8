@@ -1,5 +1,5 @@
 # BlackPill HAL Blinkey 8
-## (STM32 Hardware Abstraction Layer
+## (STM32 Hardware Abstraction Layer)
 
 ---
 
